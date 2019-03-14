@@ -14,7 +14,7 @@
 ```
 $ git clone https://github.com/nqmysb/shared-library-ui.git
 $ cd shared-library-ui
-$ npm install
+$ npm install 或者 yarn install
 
 ```
 > npm如果速度比较慢，请更换镜像为淘宝镜像
@@ -23,7 +23,7 @@ $ npm install
 ### 2.1 开发调试
 ```
 //打包完成，启动项目
-$ npm start
+$ npm start 或者 yarn start
 ```
 
 查看效果` http://127.0.0.1:3000`
