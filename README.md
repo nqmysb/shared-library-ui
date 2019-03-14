@@ -1,30 +1,61 @@
-# shared-library-ui
+# 基于React官方脚手架-create-react-app
 
-#### 项目介绍
-共享文库网站-前端ui
+> 这个脚手架使用create-react-app 创建的脚手架
 
-#### 软件架构
-软件架构说明
+## Features 功能特性
 
-[1. react](https://github.com/facebook/react)
+- antd 按需加载样式webpack配置
+- react-hot-loader 热加载
+- 引入fontawesome
+- 使用react-group-transition替代swiper做轮播图动画
 
-[2. redux-thunk](https://github.com/reduxjs/redux-thunk)
+## 1. start
 
-[3. ant-design](https://github.com/ant-design/ant-design) 
+```
+$ git clone https://github.com/nqmysb/shared-library-ui.git
+$ cd shared-library-ui
+$ npm install
+
+```
+> npm如果速度比较慢，请更换镜像为淘宝镜像
+
+## 2. dev
+### 2.1 开发调试
+```
+//打包完成，启动项目
+$ npm start
+```
+
+查看效果` http://127.0.0.1:3000`
+![](https://s2.ax1x.com/2019/03/14/AAbjyt.png)
+![](https://s2.ax1x.com/2019/03/14/AAbXQI.png)
+
+### 2.2 代码检查
+```
+$ npm run lint
+```
+
+### 2.3 测试用例
+```
+$ npm run test:watch
+```
+
+### 2.4 产出资源
+```
+$ npm run build
+```
+
+## 3. 技术栈
+
+- [x] [Webpack](https://webpack.github.io)
+- [x] [React](https://facebook.github.io/react/)
+- [x] [ES6](http://es6.ruanyifeng.com/)
+- [x] [Redux](https://github.com/rackt/redux)
+- [x] [React-router](https://github.com/rackt/react-router-redux)
+- [x] [react-router-redux](https://github.com/reactjs/react-router-redux)
 
 
-
-#### 安装教程
-
-1. npm install
-2. npm start
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
+美工原型参考：https://www.wenkuzhijia.cn/
 
 
 
