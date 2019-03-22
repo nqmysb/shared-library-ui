@@ -13,7 +13,8 @@ const listData = [];
 for (let i = 0; i < 23; i++) {
     if (i % 2 === 0) {
         listData.push({
-            href: `/detail/${i}`,
+            // href: `/detail/${i}`,
+            href: "https://liaocan.top",
             title: `DolphinPHP1.3.0完全开发手册 ${i}`,
             avatar: word_l,
             // description: 'Ant Design, a design language for background applications, is refined by Ant UED Team.',
@@ -22,7 +23,8 @@ for (let i = 0; i < 23; i++) {
         });
     } else {
         listData.push({
-            href: `/detail/${i}`,
+            // href: `/detail/${i}`,
+            href: "https://liaocan.top",
             title: `DolphinPHP1.3.0完全开发手册-基于ThinkPHP5.0.20的快速开发框架-05221135 ${i}`,
             avatar: pdf_l,
             // description: 'Ant Design, a design language for background applications, is refined by Ant UED Team.',
@@ -77,7 +79,7 @@ class CardList extends React.Component {
                     >
                         <List.Item.Meta
                             avatar={<Avatar shape="square" src={item.avatar} />}
-                            title={<a href="#" onClick={() => this.toDetail(item.href)}>{item.title}</a>}
+                            title={<a href="https://liaocan.top" onClick={() => this.toDetail(item.href)}>{item.title}</a>}
                         // description={item.description}
                         />
                         {item.content}

@@ -26,55 +26,55 @@ class TopCharts extends React.Component {
                 <ul className='top-ul'>
                     <li className='top-li'>
                         <img alt="pdf文档" src={pdf_s} />
-                        <a href="#" target="_blank" title="TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="TypeScript 官方文档">
                             TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={word_s} />
-                        <a href="#" target="_blank" title="TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="TypeScript 官方文档">
                             TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={pdf_s} />
-                        <a href="#" target="_blank" title="2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档">
                             2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={word_s} />
-                        <a href="#" target="_blank" title="TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="TypeScript 官方文档">
                             TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={pdf_s} />
-                        <a href="#" target="_blank" title="TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="TypeScript 官方文档">
                             TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={word_s} />
-                        <a href="#" target="_blank" title="TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="TypeScript 官方文档">
                             TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={pdf_s} />
-                        <a href="#" target="_blank" title="2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档">
                             2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={word_s} />
-                        <a href="#" target="_blank" title="TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="TypeScript 官方文档">
                             TypeScript 官方文档</a>
                     </li>
 
                     <li className='top-li'>
                         <img alt="pdf文档" src={pdf_s} />
-                        <a href="#" target="_blank" title="2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档">
+                        <a href="https://liaocan.top" target="_blank" title="2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档">
                             2018北京市朝阳区高三(一模)文综_16 TypeScript 官方文档</a>
                     </li>
                 </ul>

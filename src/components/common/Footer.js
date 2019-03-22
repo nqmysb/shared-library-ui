@@ -9,13 +9,13 @@ const Footer = () => (
             <div className="footer-title" ><strong>友情链接</strong></div>
             <div className="footer-body">
 
-                <a href="#" target="_blank" title="书栈网">书栈网</a>
+                <a href="https://liaocan.top" target="_blank" title="书栈网">liaocan Blog</a>
 
-                <a href="#" target="_blank" title="掘金量化">掘金量化</a>
+                <a href="https://liaocan.top" target="_blank" title="掘金量化">liaocan Blog</a>
 
-                <a href="#" target="_blank" title="南宁引力互动科技">南宁引力互动科技</a>
+                <a href="https://liaocan.top" target="_blank" title="南宁引力互动科技">liaocan Blog</a>
 
-                <a href="#" target="_blank" title="HC-CMS">HC-CMS</a>
+                <a href="https://liaocan.top" target="_blank" title="HC-CMS">liaocan Blog</a>
 
             </div>
         </div>

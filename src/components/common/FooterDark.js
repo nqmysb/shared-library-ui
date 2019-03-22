@@ -9,25 +9,25 @@ const FooterDark = () => (
 
             <div className="center">
 
-                <a href="#" target="_blank" title="关于我们">关于我们</a>
+                <a href="https://liaocan.top" target="_blank" title="关于我们">关于我们</a>
 
-                <a href="#" target="_blank" title="关于我们">文库协议</a>
+                <a href="https://liaocan.top" target="_blank" title="关于我们">文库协议</a>
 
-                <a href="#" target="_blank" title="意见反馈">意见反馈</a>
+                <a href="https://liaocan.top" target="_blank" title="意见反馈">意见反馈</a>
 
-                <a href="#" target="_blank" title="免责声明">免责声明</a>
+                <a href="https://liaocan.top" target="_blank" title="免责声明">免责声明</a>
 
-                <a href="#" target="_blank" title="意见反馈">联系我们</a>
+                <a href="https://liaocan.top" target="_blank" title="意见反馈">联系我们</a>
 
             </div>
             <div className="center">
-                文库之家&nbsp;&nbsp;©2018&nbsp;<span>|</span><a href="#" title="站点地图" target="_blank">站点地图</a>
+                文库之家&nbsp;&nbsp;©2018&nbsp;<span>|</span><a href="https://liaocan.top" title="站点地图" target="_blank">站点地图</a>
             </div>
             <div className="center">
                 <a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">粤ICP备18004373号-2</a>
             </div>
             <div className="center">
-                <small>	Powered By<a href="#" style={{ color: '#1abc9c' }} target="_blank" title="DocHub">DocHub</a>v2.1
+                <small>	Powered By<a href="https://liaocan.top" style={{ color: '#1abc9c' }} target="_blank" title="DocHub">DocHub</a>v2.1
                                   </small>
             </div>
         </div>
