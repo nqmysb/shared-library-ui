@@ -27,7 +27,7 @@ const TotalRoutes = () => (
                     <Header />
                     <NavBar />
                     <Switch location={location}>
-                        <Route exact path="/" component={FrontHome} />
+                        <Route exact path="/frontHome" component={FrontHome} />
                         <Route path="/login" component={Login} />
                         <Route path="/list/:channel" component={ChannelList} />
                         <Route path="/detail/:id" component={Detail} />

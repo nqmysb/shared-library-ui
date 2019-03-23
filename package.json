@@ -2,6 +2,7 @@
   "name": "shared-library",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://liaocan.top/shared-library-ui",
   "dependencies": {
     "@babel/core": "7.1.0",
     "@babel/plugin-proposal-decorators": "^7.1.6",
