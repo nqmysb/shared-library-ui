@@ -1,4 +1,4 @@
-import { createBrowserHistory } from 'history'
+import { createBrowserHistory,createHashHistory } from 'history'
 import { applyMiddleware, compose, createStore } from 'redux'
 import { composeWithDevTools } from 'redux-devtools-extension';
 import thunk from 'redux-thunk';
@@ -15,7 +15,9 @@ import { routerMiddleware } from 'connected-react-router'
 import createRootReducer from './reducers/index'
 
 
-export const history = createBrowserHistory()
+// export const history = createBrowserHistory()
+
+export const history = createHashHistory()
 
 const logger = createLogger({ collapsed: true });
 

@@ -38,7 +38,7 @@ class NavBar extends React.Component {
             current: e.key,
         });
         if (e.key === 'home') {
-            history.push('/frontHome')
+            history.push('/')
         } else {
             history.push(`/list/${e.key}`)
         }
